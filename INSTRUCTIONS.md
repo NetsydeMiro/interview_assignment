@@ -10,11 +10,11 @@ Implementation difficulty goes up approximately with story size.
 
 ## Small
 
-- Add some content to the home page. 
+- Add home page content 
   - The home page is quite barren at present.  
   - Add a brief paragraph of text content to describe the application and an image to make it look a bit less empty. 
 
-- Format dates. 
+- Format dates 
   - The published dates rendered in the collection table and on the collection item page are quite busy.  
   - Format them into something more friendly. 
 
@@ -30,6 +30,11 @@ Implementation difficulty goes up approximately with story size.
 - Add an edit button to the collection table. 
   - Currently a user must first view a specific item before clicking it's edit button. 
   - It would be well if users could go straight to an item's edit page via an edit button beside it's view button in the table. 
+
+- Add unit testing
+  - Currently there exist almost no unit tests in the project. 
+  - Add one or more [Jest] unit tests to add to the projects code coverage. 
+  - Hint: an example unit test (albeit an almost useless one) can be seen here: [Home.test.tsx](./src/pages/Home.test.tsx).
 
 ## Intermediate
 
@@ -56,7 +61,7 @@ Implementation difficulty goes up approximately with story size.
   - Add a loading spinner of some sort to indicate that a load is in progress.
   - Disable the save button so that saves can't initiated again while a load is in progress. 
 
-- Add a 404 page. 
+- Add a 404 page
   - Currently users can navigate to any url and are presented with a blank page. 
   - Add 404 Not Found functionality so that users get a friendly message notifying them if they try to go to any nonsupported url (eg. localhost:3000/nonexistant/url) 
   - Hint: you may want to leverage the bundled [React Router] library. 
