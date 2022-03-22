@@ -4,7 +4,7 @@ You are a new hire for Netsyde Systems, a web development company currently in t
 
 Among your first tasks as a new developer is to scan the codebase and get a feel for the project structure and technologies used.  See [README.md](./README.md) for more information about some of the incorporated technologies and how to get a development version of the application running. 
 
-Once you get the application up and running, you decide to jump in and tackle some of the items in Netsyde's issue tracker.  There is no expectations that you will be an expert on your first day at Netsyde: feel free to take on as many or as few items as you like.  You can mix and match between item sizes as you wish, or can stay within one category if preferred.  
+Once you get the application up and running, you decide to jump in and tackle some of the items in Netsyde's issue tracker.  There is no expectation that you will be an expert on your first day at Netsyde: feel free to take on as many or as few items as you like.  You can mix and match between item sizes as you wish, or can stay within one category if preferred.  
 
 Implementation difficulty goes up approximately with issue size.  
 
