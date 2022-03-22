@@ -47,8 +47,6 @@ Tests can be written in a style similar to the one in use in [Home.test.tsx](./s
 - [Create React App]: app scaffolding and build tool. 
 - [React]: reactive front-end JavaScript framework. 
 - [Jest]: popular testing framework for React components
-- [Toast UI Calendar]: JavaScript calendar component (and its React wrapper).
-- [React Datepicker]: date selector control. 
 - [Bulma]: sass & css framework.
 - [Sass]: syntax script that compiles to css. 
 
@@ -58,7 +56,6 @@ Tests can be written in a style similar to the one in use in [Home.test.tsx](./s
 [React]: https://reactjs.org/
 [React Router]: https://reactrouter.com/
 [Jest]: https://jestjs.io/
-[React Datepicker]: https://reactdatepicker.com/
 [Bulma]: https://bulma.io/
 [Sass]: https://sass-lang.com/
 
