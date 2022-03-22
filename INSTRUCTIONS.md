@@ -28,12 +28,12 @@ Implementation difficulty goes up approximately with issue size.
   - Optionally replace their text content with tooltip text that appears when hovering over the button. 
 
 - Add an edit button to the collection table. 
-  - Currently a user must first view a specific item before clicking it's edit button. 
-  - It would be well if users could go straight to an item's edit page via an edit button beside it's view button in the table. 
+  - Currently a user must first view a specific item before clicking its edit button. 
+  - It would be well if users could go straight to an item's edit page via an edit button beside its view button in the table. 
 
 - Add unit testing
   - Currently there exist almost no unit tests in the project. 
-  - Add one or more [Jest] unit tests to add to the projects code coverage. 
+  - Add one or more [Jest] unit tests to increase the project's code coverage. 
   - Hint: an example unit test (albeit an almost useless one) can be seen here: [Home.test.tsx](./src/pages/Home.test.tsx).
 
 ## Medium
@@ -101,7 +101,7 @@ Implementation difficulty goes up approximately with issue size.
 
 ## Final Notes
 
-There many more items in Netsyde's issue tracker (above) than are necessary to complete for a new recruit.  You do not have to (and in fact are discouraged from) completing all, most, or even many of the above.  The wide variety has been outlined simply to give multiple options for developers of different experience levels.  
+There are many more items in Netsyde's issue tracker (above) than are necessary to complete for a new recruit.  You do not have to (and in fact are discouraged from) completing all, most, or even many of the above.  The wide variety has been outlined simply to give multiple options for developers of different experience levels.  
 
 If you find you can't complete as many stories as you'd like, whether because of limited prior experience with the technologies used, or because of the time you have available, then feel free to jot down in point form which items you would take on if there were more time allotted, and how you might go about designing and/or implementing the solutions.  We can discuss your ideas and proposed solutions as well as any completed work during your code review (interview).  
 
