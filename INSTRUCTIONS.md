@@ -4,9 +4,9 @@ You are a new hire for Netsyde Systems, a web development company currently in t
 
 Among your first tasks as a new developer is to scan the codebase and get a feel for the project structure and technologies used.  See [README.md](./README.md) for more information about some of the incorporated technologies and how to get a development version of the application running. 
 
-Once you get the application up and running, you decide to jump in and tackle some of the stories in Netsyde's story tracker.  There is no expectations that you will be an expert on your first day at Netsyde: feel free to take on as many or as few items as you like.  You can mix and match between story sizes as you wish, or can stay within one category if preferred.  
+Once you get the application up and running, you decide to jump in and tackle some of the items in Netsyde's issue tracker.  There is no expectations that you will be an expert on your first day at Netsyde: feel free to take on as many or as few items as you like.  You can mix and match between item sizes as you wish, or can stay within one category if preferred.  
 
-Implementation difficulty goes up approximately with story size.  
+Implementation difficulty goes up approximately with issue size.  
 
 ## Small
 
@@ -36,7 +36,7 @@ Implementation difficulty goes up approximately with story size.
   - Add one or more [Jest] unit tests to add to the projects code coverage. 
   - Hint: an example unit test (albeit an almost useless one) can be seen here: [Home.test.tsx](./src/pages/Home.test.tsx).
 
-## Intermediate
+## Medium
 
 - Style the CollectionItem view page
   - The layout of the CollectionItem view page is just a skeleton at present. 
@@ -87,6 +87,25 @@ Implementation difficulty goes up approximately with story size.
 - Add the ability to *Edit* collections
   - Currently the category list is essentially hard-coded and fixed to Books, Movies, and Video Games. 
   - Add the ability for users to add/edit/delete their own categories for things like TV Shows, Records, CDs, etc. 
+
+## DIY
+
+- Fix a bug
+  - CollectionDB has barely scraped by alpha testing.  
+  - Spot a bug you'd like to take on?  Document and squash it.  
+
+- Add your own enhancement
+  - CollectionDB is a very rudimentary application at present. 
+  - Have an idea for an improvement, whether functional or aesthetic?  
+  - Describe why your change is an improvement and implement.  
+
+## Final Notes
+
+There many more items in Netsyde's issue tracker (above) than are necessary to complete for a new recruit.  You do not have to (and in fact are discouraged from) completing all, most, or even many of the above.  The wide variety has been outlined simply to give multiple options for developers of different experience levels.  
+
+If you find you can't complete as many stories as you'd like, whether because of limited prior experience with the technologies used, or because of the time you have available, then feel free to jot down in point form which items you would take on if there were more time allotted, and how you might go about designing and/or implementing the solutions.  We can discuss your ideas and proposed solutions as well as any completed work during your code review (interview).  
+
+Welcome aboard!
 
 
 [Node.js]: https://nodejs.org/en/
