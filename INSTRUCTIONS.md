@@ -38,6 +38,10 @@ Implementation difficulty goes up approximately with story size.
   - Fix the layout to be more intuitive and pleasant. 
   - Hint: Feel free to leverage the bundled [Bulma] [Sass] framework. 
 
+- Add collection items table to home page
+  - Currently the home page is blank
+  - Add a table to it that lists all collection items (regardless of collection type)
+
 - Add modifiedAt property to DbRows
   - Currently we only track when a record was initially created (via createdAt). 
   - Add a modifiedAt date property that is updated everytime the record is altered. 
