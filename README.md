@@ -1,6 +1,6 @@
 # Interview Assignment
 
-Assignment instructions can be found here [INSTRUCTIONS.md](./INSTRUCTIONS.md).
+Assignment instructions can be found in [INSTRUCTIONS.md](./INSTRUCTIONS.md).
 
 The rest of this README has technical instructions for getting the program up and running in case you aren't familiar with some of the technologies in use. 
 
